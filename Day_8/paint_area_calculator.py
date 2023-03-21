@@ -1,4 +1,4 @@
-"""Exercise 1 - Paint Area Calculator"""
+"""Exercise 1  - Paint Area Calculator"""
 
 # Write your code below this line 👇
 import math
