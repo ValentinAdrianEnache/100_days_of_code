@@ -50,7 +50,7 @@ if boot_choice == user_choice:
 elif user_choice not in choices:
     print('You typed an invalid letter! You lose!')
 else:
-    if boot_choice == rock and user_choice == scissors:
+    if boot_choice == rock and user_choice == paper:
         print(user_win)
         user_score += 1
     elif boot_choice == paper and user_choice == scissors:
