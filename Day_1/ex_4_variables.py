@@ -1,4 +1,4 @@
-"Exercise 4 - Variables"
+"""Exercise 4 - Variables"""
 
 # 🚨 Don't change the code below 👇
 a = input("a: ")
@@ -8,9 +8,9 @@ b = input("b: ")
 ####################################
 #Write your code below this line 👇
 
-c = a
-a = b
-b = c
+# c = a
+# a = b
+# b = c
 
 
 #Write your code above this line 👆

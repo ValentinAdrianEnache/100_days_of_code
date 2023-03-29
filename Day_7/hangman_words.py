@@ -1,4 +1,5 @@
-"""word list & logo"""
+
+"""word list & logo b"""
 words_list = ['abruptly',
               'absurd',
               'abyss',
