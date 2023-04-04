@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a85f5473-9024-453d-97bf-e7ce8b147e42" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day_10/art.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day_10/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_10/calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day_10/2.days_in_month.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day_10/2.days_in_month.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,8 +44,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.file-colors&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.calculator">
-    <configuration name="1.grading_program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2.days_in_month">
+    <configuration name="2.days_in_month" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_of_code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -54,11 +53,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day_10" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_9/1.grading_program.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day_10/2.days_in_month.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.days_in_month" />
         <item itemvalue="Python.calculator" />
         <item itemvalue="Python.blind_auction" />
         <item itemvalue="Python.2.dictionary_in_list" />
         <item itemvalue="Python.day_1_project_band_name_generator" />
-        <item itemvalue="Python.1.grading_program" />
       </list>
     </recent_temporary>
   </component>
